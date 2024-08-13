@@ -1,5 +1,13 @@
-## Hi there 👋
+## Olá👋✨
+Bem vindos ao meu perfil 💙
+Meu nome é Mariana de Castro
 
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+00001134814367SP@al.educacao.sp.gov.br
 <!--
 **MarianaCastr0/MarianaCastr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
